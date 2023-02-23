@@ -16,3 +16,8 @@ img {
   display: block;
   max-width: 100%;
 }
+.timer{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
